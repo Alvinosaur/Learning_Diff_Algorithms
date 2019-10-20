@@ -27,3 +27,5 @@ points = [[3,3],[5,-1],[-2,4], [0,0], [1, 3], [-2, -2]]
 K = 4
 res = k_smallest_dist(points, K)
 print(res)
+
+
